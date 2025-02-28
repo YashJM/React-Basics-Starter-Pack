@@ -25,3 +25,24 @@ To get started, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/react-basics-starter-pack.git
+
+   ```
+
+2. Navigate to project directory
+
+   ```bash
+   cd react-basics-starter-pack
+
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run project:
+
+   ```bash
+   npm run dev
+   ```
