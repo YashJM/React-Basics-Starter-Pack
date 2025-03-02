@@ -89,8 +89,6 @@ const UserListFilter = () => {
     });
   }, [users, searchText]);
 
-  console.log(users[0]);
-
   return (
     <div>
       {loading ? (
